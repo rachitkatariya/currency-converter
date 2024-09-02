@@ -8,12 +8,13 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-color: #f4e4ba;
+  background-color: #454242;
 }
 
 .container {
-  background-color: #fff;
+  background-color: #6f7f2f;
   padding: 2rem;
+  border: 2px solid rgb(255, 255, 255);
   border-radius: 1rem;
   min-height: 45vh;
   width: 40vh;
@@ -75,7 +76,7 @@ form input {
 
 form button {
   height: 3rem;
-  background-color: #af4d98;
+  background-color: #1e6271;
   color: #fff;
   font-size: 1.15rem;
   cursor: pointer;
